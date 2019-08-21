@@ -1,0 +1,21 @@
+.button-3{
+    width: 100px;
+    border-radius: 25px;
+background: blue;
+color: white;
+}
+.button-2{
+border-radius: 25px;
+background: blue;
+color: white;
+}
+.button-1{
+border-radius: 25px;
+background: blue;
+color: white;
+
+}
+
+.btn{
+    float: right;
+}

@@ -1,0 +1,63 @@
+
+.root{
+   max-width: 400px;
+
+
+    }
+    
+    .parent {
+
+        width: 350%;
+        height: 100%;
+        display:flex;
+    }
+    .blue {
+        background-color:skyblue;
+        width: 300%;
+        height: 75%;
+        color: white;
+        background-image:url("https://www.freeiconspng.com/uploads/blue-logo-twitter-birds-emblem-3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-top: 100px;
+        padding-left: 100px;
+        padding-bottom: 0px;
+        padding: 100px;
+        margin-top: 20px;
+    }
+    .white {
+        width: 300%;
+        padding: 100px;
+        height: 75%;
+        margin-top: 20px;
+        }
+    
+    .footer{
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 345%;
+        display: inline-block;
+        padding-bottom: 10px;
+        
+    }
+
+    ul li {
+        display: inline-block;
+        padding: 7px;
+        
+    }
+    li a{
+        display: inline-block;
+        text-decoration: none;
+        color: dimgrey;
+    }
+    .para{
+        margin-left: 40px;
+        line-height: 0.3px;
+    }
+    
+   
+    
+    

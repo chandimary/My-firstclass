@@ -1,0 +1,42 @@
+.button-1{
+    background-color: rgb(72, 187, 233);
+    color: white;
+    width: 70%;
+    border-radius:50px;
+    height: 40px;
+    margin: 15px;
+}
+.button-2{
+    background-color: white;
+    color: blue;
+    width: 70%;
+    border-radius:50px;
+    height: 40px;
+    border-color: blue; 
+    margin: 15px;
+}
+    
+.buttons1-4{
+    display:inline-block;
+    padding: 7px;
+   
+}
+.upper-btns{
+    display: flex;
+}
+ .input-1{
+        width: 35%;
+        height: 15%;
+    
+    }
+    .input-2{
+        width: 35%;
+        height: 15%;
+    }
+    .input-3{
+        width: 10%;
+        height: 10%;
+        border-radius:30px;
+        border: 30px;
+        color: blue; 
+    }
